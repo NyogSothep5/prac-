@@ -10,7 +10,6 @@ SPECIAL_CHARACTERS = "!@#$%^&*()_-=+`~,./'[]<>?{}|\\"
 
 
 def main():
-
     print("Please enter a valid password")
     print("Your password must be between", MIN_LENGTH, "and", MAX_LENGTH,
           "characters, and contain:")
